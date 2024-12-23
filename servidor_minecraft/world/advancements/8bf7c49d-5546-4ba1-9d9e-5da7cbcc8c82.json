@@ -15449,9 +15449,27 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_stairs_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-23 22:12:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs": {
     "criteria": {
       "has_polished_cut_andesite": "2024-12-23 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_slice_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-23 22:10:49 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_slice_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-23 22:11:06 +0000"
     },
     "done": true
   },

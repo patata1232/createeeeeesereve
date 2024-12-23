@@ -2020,3 +2020,18 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [23Dec2024 21:33:06.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6063ms or 121 ticks behind
 [23Dec2024 21:36:17.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
 [23Dec2024 21:38:57.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[23Dec2024 21:43:01.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[23Dec2024 21:43:02.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[23Dec2024 21:43:32.285] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[23Dec2024 21:43:42.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.145.192.181:40877] logged in with entity id 401500 at (166.73764071286615, 63.0, 280.10569226847554)
+[23Dec2024 21:43:42.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[23Dec2024 21:43:42.170] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[23Dec2024 21:43:46.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4776ms or 95 ticks behind
+[23Dec2024 21:44:04.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2834ms or 56 ticks behind
+[23Dec2024 21:44:25.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[23Dec2024 21:45:35.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[23Dec2024 21:45:57.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Dec2024 21:49:04.678] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: patatacraft123/ltg_schooner_no_sails.nbt
+[23Dec2024 21:50:57.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Timed out
+[23Dec2024 21:50:57.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[23Dec2024 21:50:57.980] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

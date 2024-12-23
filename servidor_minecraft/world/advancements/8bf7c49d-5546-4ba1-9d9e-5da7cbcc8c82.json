@@ -15413,5 +15413,23 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_layer_from_half_layers": {
+    "criteria": {
+      "has_item": "2024-12-23 20:59:17 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_panel_from_half_panels": {
+    "criteria": {
+      "has_item": "2024-12-23 20:59:14 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_panel_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-23 21:00:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

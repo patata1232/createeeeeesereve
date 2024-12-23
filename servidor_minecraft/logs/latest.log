@@ -2576,3 +2576,17 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [23Dec2024 19:31:49.661] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
 [23Dec2024 19:31:49.662] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
 [23Dec2024 19:31:51.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[23Dec2024 19:32:27.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21204ms or 424 ticks behind
+[23Dec2024 19:33:35.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Dec2024 19:33:54.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3297ms or 65 ticks behind
+[23Dec2024 19:34:54.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[23Dec2024 19:43:30.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[23Dec2024 19:44:40.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
+[23Dec2024 19:44:57.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[23Dec2024 19:45:37.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[23Dec2024 19:46:05.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13280ms or 265 ticks behind
+[23Dec2024 19:46:35.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14860ms or 297 ticks behind
+[23Dec2024 19:48:33.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[23Dec2024 19:49:08.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19885ms or 397 ticks behind
+[23Dec2024 19:49:27.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4529ms or 90 ticks behind
+[23Dec2024 19:57:57.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind

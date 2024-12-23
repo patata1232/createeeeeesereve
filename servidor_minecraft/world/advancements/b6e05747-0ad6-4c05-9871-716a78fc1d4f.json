@@ -15764,5 +15764,47 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs": {
+    "criteria": {
+      "has_polished_cut_andesite": "2024-12-23 19:32:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab": {
+    "criteria": {
+      "has_polished_cut_diorite": "2024-12-23 20:00:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall": {
+    "criteria": {
+      "has_polished_cut_diorite": "2024-12-23 20:00:16 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/multimeter": {
+    "criteria": {
+      "has_the_recipe": "2024-12-23 19:43:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs": {
+    "criteria": {
+      "has_polished_cut_diorite": "2024-12-23 20:00:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall": {
+    "criteria": {
+      "has_polished_cut_andesite": "2024-12-23 19:32:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab": {
+    "criteria": {
+      "has_polished_cut_andesite": "2024-12-23 19:32:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

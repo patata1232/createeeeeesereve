@@ -66,6 +66,7 @@
       "minecraft:spider": "2024-04-01 20:07:57 +0000",
       "minecraft:piglin_brute": "2024-05-22 16:38:54 +0000",
       "minecraft:creeper": "2024-04-04 18:39:10 +0000",
+      "minecraft:wither": "2024-12-23 19:31:20 +0000",
       "minecraft:witch": "2024-04-25 19:26:05 +0000",
       "minecraft:wither_skeleton": "2024-04-18 19:55:26 +0000",
       "minecraft:husk": "2024-05-23 15:06:47 +0000",
@@ -14881,6 +14882,18 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-07 14:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-23 19:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-23 19:31:23 +0000"
     },
     "done": true
   },

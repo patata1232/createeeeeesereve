@@ -15407,5 +15407,11 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/yaw_controller": {
+    "criteria": {
+      "has_cannon_mount": "2024-12-23 20:38:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

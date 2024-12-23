@@ -1971,3 +1971,11 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [23Dec2024 20:28:46.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5123ms or 102 ticks behind
 [23Dec2024 20:29:06.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
 [23Dec2024 20:29:24.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23Dec2024 20:40:37.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[23Dec2024 20:40:37.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[23Dec2024 20:41:20.510] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@295c3bf6[id=<null>,name=Am_maquinista,properties={},legacy=false] (/127.145.192.181:57155) lost connection: Disconnected
+[23Dec2024 20:41:27.146] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[23Dec2024 20:41:37.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.145.192.181:55653] logged in with entity id 107226 at (-292.09305041159604, 71.0, -1511.212225735263)
+[23Dec2024 20:41:37.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[23Dec2024 20:41:37.473] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[23Dec2024 20:44:52.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista is bleeding. Am_maquinista was annihilated by patatacraft123

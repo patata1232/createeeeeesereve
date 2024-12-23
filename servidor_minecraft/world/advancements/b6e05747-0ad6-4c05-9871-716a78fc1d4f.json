@@ -16118,6 +16118,12 @@
     },
     "done": true
   },
+  "jeg:revolver": {
+    "criteria": {
+      "Item": "2024-12-23 21:40:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_planks": "2024-12-23 21:11:30 +0000"

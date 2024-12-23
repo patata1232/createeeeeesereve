@@ -15449,5 +15449,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs": {
+    "criteria": {
+      "has_polished_cut_andesite": "2024-12-23 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall": {
+    "criteria": {
+      "has_polished_cut_andesite": "2024-12-23 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab": {
+    "criteria": {
+      "has_polished_cut_andesite": "2024-12-23 22:04:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

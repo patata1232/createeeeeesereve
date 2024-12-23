@@ -2054,3 +2054,19 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [23Dec2024 22:01:49.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
 [23Dec2024 22:01:49.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
 [23Dec2024 22:01:49.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[23Dec2024 22:02:04.587] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[23Dec2024 22:02:13.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.18.106.50:39281] logged in with entity id 497115 at (-423.3314895368706, 129.51623171062332, -1431.4817283188559)
+[23Dec2024 22:02:13.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[23Dec2024 22:02:14.088] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[23Dec2024 22:06:54.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[23Dec2024 22:07:36.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27074ms or 541 ticks behind
+[23Dec2024 22:07:58.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6509ms or 130 ticks behind
+[23Dec2024 22:08:16.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[23Dec2024 22:08:38.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[23Dec2024 22:08:55.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[23Dec2024 22:09:32.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
+[23Dec2024 22:09:53.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[23Dec2024 22:10:14.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
+[23Dec2024 22:10:38.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[23Dec2024 22:11:00.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[23Dec2024 22:12:08.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2571ms or 51 ticks behind

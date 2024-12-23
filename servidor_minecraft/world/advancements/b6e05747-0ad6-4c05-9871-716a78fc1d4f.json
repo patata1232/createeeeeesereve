@@ -15626,12 +15626,6 @@
     },
     "done": true
   },
-  "create_dd:recipes/create_dd.palettes/crafting/decor/red_blueprint_block_from_red_dye": {
-    "criteria": {
-      "has_dyed_item": "2024-12-23 15:32:22 +0000"
-    },
-    "done": true
-  },
   "design_decor:recipes/building_blocks/white_metal_sheet_stairs_from_metal_plate_stonecutting": {
     "criteria": {
       "has_metal_plate": "2024-12-23 15:31:46 +0000"
@@ -15728,12 +15722,6 @@
     },
     "done": true
   },
-  "create_dd:recipes/create_dd.palettes/crafting/decor/red_blueprint_block": {
-    "criteria": {
-      "has_dyed_item": "2024-12-23 15:32:22 +0000"
-    },
-    "done": true
-  },
   "design_decor:recipes/building_blocks/gray_metal_sheet_slab_from_metal_plate_stonecutting": {
     "criteria": {
       "has_metal_plate": "2024-12-23 15:31:46 +0000"
@@ -15761,6 +15749,18 @@
   "design_decor:recipes/building_blocks/yellow_metal_plate_stairs_from_metal_plate_stonecutting": {
     "criteria": {
       "has_metal_plate": "2024-12-23 15:31:46 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/red_blueprint_block_from_red_dye": {
+    "criteria": {
+      "has_dyed_item": "2024-12-23 15:32:22 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/red_blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2024-12-23 15:32:22 +0000"
     },
     "done": true
   },

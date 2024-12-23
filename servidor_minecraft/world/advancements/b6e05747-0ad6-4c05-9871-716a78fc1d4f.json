@@ -16106,6 +16106,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2024-12-23 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_stairs": {
+    "criteria": {
+      "has_item": "2024-12-23 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:11:30 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_vertical_slice_from_conversion": {
     "criteria": {
       "has_item": "2024-12-23 20:24:00 +0000"

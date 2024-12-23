@@ -16148,5 +16148,17 @@
     },
     "done": true
   },
+  "create_dd:recipes/create.base/fluid_tank_from_fluid_reservoir_stonecutting": {
+    "criteria": {
+      "has_fluid_reservoir": "2024-12-23 22:56:11 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_tank_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-23 22:56:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

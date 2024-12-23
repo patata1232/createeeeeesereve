@@ -2035,3 +2035,22 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [23Dec2024 21:50:57.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Timed out
 [23Dec2024 21:50:57.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
 [23Dec2024 21:50:57.980] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 21:51:36.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
+[23Dec2024 21:56:40.646] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Am_maquinista is 8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82
+[23Dec2024 21:56:50.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Am_maquinista[/127.18.106.50:52969] logged in with entity id 470950 at (191.67824539821828, 63.0, 190.56155038037784)
+[23Dec2024 21:56:50.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
+[23Dec2024 21:56:50.841] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
+[23Dec2024 21:56:54.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4200ms or 84 ticks behind
+[23Dec2024 21:57:18.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8054ms or 161 ticks behind
+[23Dec2024 21:57:50.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17203ms or 344 ticks behind
+[23Dec2024 21:58:33.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28363ms or 567 ticks behind
+[23Dec2024 21:58:59.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[23Dec2024 21:59:55.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patatacraft123 lost connection: Disconnected
+[23Dec2024 21:59:55.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 left the game
+[23Dec2024 22:00:03.908] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player patatacraft123 is b6e05747-0ad6-4c05-9871-716a78fc1d4f
+[23Dec2024 22:00:08.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patatacraft123[/127.33.22.196:60645] logged in with entity id 486050 at (-343.0523396751442, 73.0, -1521.0143102579634)
+[23Dec2024 22:00:08.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patatacraft123 joined the game
+[23Dec2024 22:00:08.723] [Server thread/INFO] [Jade/]: Syncing config to patatacraft123 (b6e05747-0ad6-4c05-9871-716a78fc1d4f)
+[23Dec2024 22:01:49.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Am_maquinista lost connection: Disconnected
+[23Dec2024 22:01:49.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista left the game
+[23Dec2024 22:01:49.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind

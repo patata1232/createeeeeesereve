@@ -1979,3 +1979,5 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [23Dec2024 20:41:37.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista joined the game
 [23Dec2024 20:41:37.473] [Server thread/INFO] [Jade/]: Syncing config to Am_maquinista (8bf7c49d-5546-4ba1-9d9e-5da7cbcc8c82)
 [23Dec2024 20:44:52.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista is bleeding. Am_maquinista was annihilated by patatacraft123
+[23Dec2024 20:50:45.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Am_maquinista is bleeding. Am_maquinista was hit with artillery fire
+[23Dec2024 20:53:09.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Am_maquinista: Location (-268.5848444402218, 71.25, -1515.520898938179) too far away from hit block BlockPos{x=-269, y=71, z=-1515}.

@@ -16148,9 +16148,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/copycat_headstock_link_and_pin": {
+  "create_connected:recipes/crafting/kinetics/fluid_tank_from_conversion": {
     "criteria": {
-      "has_item": "2024-12-23 23:06:38 +0000"
+      "has_item": "2024-12-23 22:56:00 +0000"
     },
     "done": true
   },
@@ -16160,9 +16160,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/fluid_tank_from_conversion": {
+  "railways:recipes/misc/crafting/copycat_headstock_link_and_pin": {
     "criteria": {
-      "has_item": "2024-12-23 22:56:00 +0000"
+      "has_item": "2024-12-23 23:06:38 +0000"
     },
     "done": true
   },
